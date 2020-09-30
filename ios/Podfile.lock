@@ -1,0 +1,156 @@
+PODS:
+  - audioplayers (0.0.1):
+    - Flutter
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - device_info (0.0.1):
+    - Flutter
+  - devicelocale (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_app_badger (0.0.1):
+    - Flutter
+  - flutter_barcode_scanner (0.0.9):
+    - Flutter
+  - flutter_incall_manager (0.0.1):
+    - Flutter
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_money_formatter (0.0.1):
+    - Flutter
+  - flutter_udid (0.0.1):
+    - Flutter
+    - SAMKeychain
+  - flutter_webrtc (0.1.6):
+    - Flutter
+    - GoogleWebRTC (= 1.1.27299)
+    - libyuv-iOS
+  - GoogleWebRTC (1.1.27299)
+  - keyboard_visibility (0.5.0):
+    - Flutter
+    - Reachability
+  - libyuv-iOS (1.0.2)
+  - path_provider (0.0.1):
+    - Flutter
+  - path_provider_linux (0.0.1):
+    - Flutter
+  - permission_handler (3.2.2):
+    - Flutter
+  - Reachability (3.2)
+  - SAMKeychain (1.5.3)
+  - screen (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_linux (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audioplayers (from `.symlinks/plugins/audioplayers/ios`)
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - devicelocale (from `.symlinks/plugins/devicelocale/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_app_badger (from `.symlinks/plugins/flutter_app_badger/ios`)
+  - flutter_barcode_scanner (from `.symlinks/plugins/flutter_barcode_scanner/ios`)
+  - flutter_incall_manager (from `.symlinks/plugins/flutter_incall_manager/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_money_formatter (from `.symlinks/plugins/flutter_money_formatter/ios`)
+  - flutter_udid (from `.symlinks/plugins/flutter_udid/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - keyboard_visibility (from `.symlinks/plugins/keyboard_visibility/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - path_provider_linux (from `.symlinks/plugins/path_provider_linux/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - screen (from `.symlinks/plugins/screen/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - shared_preferences_linux (from `.symlinks/plugins/shared_preferences_linux/ios`)
+  - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
+
+SPEC REPOS:
+  trunk:
+    - GoogleWebRTC
+    - libyuv-iOS
+    - Reachability
+    - SAMKeychain
+
+EXTERNAL SOURCES:
+  audioplayers:
+    :path: ".symlinks/plugins/audioplayers/ios"
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  devicelocale:
+    :path: ".symlinks/plugins/devicelocale/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_app_badger:
+    :path: ".symlinks/plugins/flutter_app_badger/ios"
+  flutter_barcode_scanner:
+    :path: ".symlinks/plugins/flutter_barcode_scanner/ios"
+  flutter_incall_manager:
+    :path: ".symlinks/plugins/flutter_incall_manager/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_money_formatter:
+    :path: ".symlinks/plugins/flutter_money_formatter/ios"
+  flutter_udid:
+    :path: ".symlinks/plugins/flutter_udid/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  keyboard_visibility:
+    :path: ".symlinks/plugins/keyboard_visibility/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  path_provider_linux:
+    :path: ".symlinks/plugins/path_provider_linux/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  screen:
+    :path: ".symlinks/plugins/screen/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  shared_preferences_linux:
+    :path: ".symlinks/plugins/shared_preferences_linux/ios"
+  shared_preferences_macos:
+    :path: ".symlinks/plugins/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: ".symlinks/plugins/shared_preferences_web/ios"
+
+SPEC CHECKSUMS:
+  audioplayers: 84f968cea3f2deab00ec4f8ff53358b3c0b3992c
+  connectivity: c72716e202a1225ec4810740d5cb56b8ae3bf4cc
+  device_info: 3ebad48f726348f69abd802f3334a8d1ed795fbd
+  devicelocale: feebbe5e7a30adb8c4f83185de1b50ff19b44f00
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_app_badger: 65de4d6f0c34a891df49e6cfb8a1c0496426fa68
+  flutter_barcode_scanner: a1728e13da6c58a408d771c2929b0515bdbfb40d
+  flutter_incall_manager: 1a6aea8d37fb46d63aaa30ac7ea225e121704eab
+  flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
+  flutter_money_formatter: d0d18ddc5be333fad8d09964d741b59fa11a91dc
+  flutter_udid: e698e58df29cd728c7e3f061e13a8e0d93376f51
+  flutter_webrtc: b4d969a556b246378adb24262375b0204e1e89df
+  GoogleWebRTC: 893a5f2f3635437ec3b05ef240993d5713307804
+  keyboard_visibility: 96a24de806fe6823c3ad956c01ba2ec6d056616f
+  libyuv-iOS: 5a154ccc84ec754029886ecb607512731fe30640
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
+  permission_handler: d59f41439f5bc6c4d1005f3355e98f05ddc68ece
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  screen: abd91ca7bf3426e1cc3646d27e9b2358d6bf07b0
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  shared_preferences_linux: afefbfe8d921e207f01ede8b60373d9e3b566b78
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.9.3

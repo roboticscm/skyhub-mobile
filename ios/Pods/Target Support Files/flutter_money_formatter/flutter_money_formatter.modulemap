@@ -1,0 +1,6 @@
+framework module flutter_money_formatter {
+  umbrella header "flutter_money_formatter-umbrella.h"
+
+  export *
+  module * { export * }
+}

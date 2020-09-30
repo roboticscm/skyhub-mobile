@@ -1,0 +1,25 @@
+{
+  "title": "Tiêu đề",
+  "@title": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "username": "Tên đăng nhập",
+  "@username": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "password": "Mật khẩu",
+  "@password": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "login": "Đăng nhập",
+    "@login": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

@@ -1,0 +1,1 @@
+const double BUTTON_PADDING = 10;

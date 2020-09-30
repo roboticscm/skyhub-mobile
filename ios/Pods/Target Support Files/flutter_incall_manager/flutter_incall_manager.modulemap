@@ -1,0 +1,6 @@
+framework module flutter_incall_manager {
+  umbrella header "flutter_incall_manager-umbrella.h"
+
+  export *
+  module * { export * }
+}

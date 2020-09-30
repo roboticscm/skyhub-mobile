@@ -1,0 +1,8 @@
+{
+  "title": "Title",
+  "@title": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  }
+}

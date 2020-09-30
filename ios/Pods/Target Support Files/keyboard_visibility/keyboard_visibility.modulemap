@@ -1,0 +1,6 @@
+framework module keyboard_visibility {
+  umbrella header "keyboard_visibility-umbrella.h"
+
+  export *
+  module * { export * }
+}
